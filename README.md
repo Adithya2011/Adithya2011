@@ -34,6 +34,8 @@ Happy Coding! 🚀
 ### 💻 My WorkSpace Spec
 <img height="30" src="https://img.shields.io/badge/Dell-Vostro-007DB8?style=for-the-badge&logo=dell&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_8th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Radeon-Graphics-ED1C24?style=for-the-badge&logo=radeon&logoColor=white"/>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/adithyad?ext=contest&theme=dark)](https://leetcode.com/adithyad/)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/adithyad?theme=dark)](https://leetcode.com/adithyad/)
 [![GeeksforGeeks Stats](https://geeks-stats.vercel.app/api?username=adithyad2011)](https://auth.geeksforgeeks.org/user/adithyad2011)
+
 
