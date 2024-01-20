@@ -5,7 +5,11 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
 
-🎓 Recent graduate passionate about coding, exploring new technologies, and building innovative solutions. I have a solid foundation in Java, JavaScript, HTML, CSS, C Programming, Python, and MySQL.
+🎓 Pursuing BE in Electronics and Communication.
+
+💻 Passionate about coding, exploring new technologies, and building innovative solutions.
+
+Skills: Java, JavaScript, HTML, CSS, C Programming, Python, MySQL
 
 🌱 Currently honing my skills in Data Structures and Algorithms (DSA) and eager to contribute to exciting projects.
 
@@ -36,6 +40,7 @@ Happy Coding! 🚀
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adithyad?theme=dark)](https://leetcode.com/adithyad/)
-[![GeeksforGeeks Stats](https://geeks-stats.vercel.app/api?username=adithyad2011)](https://auth.geeksforgeeks.org/user/adithyad2011)
+[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/adithyad2011)
+
 
 
