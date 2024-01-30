@@ -12,9 +12,10 @@
 ## Skills
 
 - **Programming Languages:** Java, JavaScript, C Programming, Python
-- **Web Development:** HTML, CSS
+- **Technologies:** HTML, CSS
 - **Database:** MySQL , MongoDB
 - **Full Stack:**  MongoDB, React, Node.js
+- **TOOLS:** Git,GitHub,VS code 
 
 🔍 Actively seeking roles as a MERN developer to contribute innovative solutions at the intersection of front-end brilliance and back-end robustness.
 
