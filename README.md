@@ -24,8 +24,9 @@
 🔍 Actively seeking opportunities in the tech industry:
    - 💻 Full Stack Developer (MERN)
    - ☕ Java Developer
-
-   
+     
+**projects:**   [Number Game Project](https://adithya2011.github.io/NumberGame.github.io/)
+  
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adithya-d-5326aa211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: Techie
