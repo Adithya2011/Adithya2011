@@ -9,14 +9,21 @@
 
 💻 Passionate about coding, exploring new technologies, and building innovative solutions.
 
-Skills: Java, JavaScript, HTML, CSS, C Programming, Python, MySQL
+## Skills
 
-🌱 Currently honing my skills in Data Structures and Algorithms (DSA) and eager to contribute to exciting projects.
+- **Programming Languages:** Java, JavaScript, C Programming, Python
+- **Web Development:** HTML, CSS
+- **Database:** MySQL , MongoDB
+- **Full Stack:**  MongoDB, React, Node.js 
+
+🔍 Actively seeking roles as a MERN developer to contribute innovative solutions at the intersection of front-end brilliance and back-end robustness.
+🌱 Constantly elevating my proficiency in Data Structures and Algorithms with a passion for excellence in every project I take on.
 
 🔍 Actively seeking opportunities in the tech industry:
+   - 💻 Full Stack Developer (MERN)
    - ☕ Java Developer
-   - 🌐 Front-end Developer
 
+   
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adithya-d-5326aa211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: Techie
@@ -29,10 +36,12 @@ Happy Coding! 🚀
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react.png"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+
 
 
 ### 💻 My WorkSpace Spec
