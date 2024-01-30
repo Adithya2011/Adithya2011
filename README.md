@@ -14,9 +14,10 @@
 - **Programming Languages:** Java, JavaScript, C Programming, Python
 - **Web Development:** HTML, CSS
 - **Database:** MySQL , MongoDB
-- **Full Stack:**  MongoDB, React, Node.js 
+- **Full Stack:**  MongoDB, React, Node.js
 
 🔍 Actively seeking roles as a MERN developer to contribute innovative solutions at the intersection of front-end brilliance and back-end robustness.
+
 🌱 Constantly elevating my proficiency in Data Structures and Algorithms with a passion for excellence in every project I take on.
 
 🔍 Actively seeking opportunities in the tech industry:
@@ -36,7 +37,7 @@ Happy Coding! 🚀
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 ### IDE and Tools I Use
