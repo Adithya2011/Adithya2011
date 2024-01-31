@@ -26,6 +26,7 @@
    - ☕ Java Developer
      
 ## Projects
+  - [Weather App](https://sunny-twilight-77589d.netlify.app)
   - [Number Game Project](https://adithya2011.github.io/NumberGame.github.io/)
 ##
 
