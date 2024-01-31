@@ -21,7 +21,7 @@
 
 🌱 Constantly elevating my proficiency in Data Structures and Algorithms with a passion for excellence in every project I take on.
 
-🔍 Actively seeking opportunities in the tech industry:
+🔍 Eagerly pursuing roles in the tech sector, particularly interested in opportunities as a:
    - 💻 Full Stack Developer (MERN)
    - ☕ Java Developer
      
