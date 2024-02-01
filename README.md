@@ -25,7 +25,8 @@
    - 💻 Full Stack Developer (MERN)
    - ☕ Java Developer
      
-## Projects
+## Projects 
+  - [Dress Dynasty]( https://adithya2011.github.io/https-adithya.github.io-DressDynasty-/)
   - [Weather App](https://sunny-twilight-77589d.netlify.app)
   - [Number Game Project](https://adithya2011.github.io/NumberGame.github.io/)
 ##
