@@ -17,8 +17,6 @@
 - **Full Stack:**  MongoDB, React, Node.js
 - **TOOLS:** Git, GitHub, VS code
 
-🔍 Actively seeking roles as a MERN developer to contribute innovative solutions at the intersection of front-end brilliance and back-end robustness.
-
 🌱 Constantly elevating my proficiency in Data Structures and Algorithms with a passion for excellence in every project I take on.
 
 🔍 Eagerly pursuing roles in the tech sector, particularly interested in opportunities as a:
